@@ -1,0 +1,6 @@
+
+train: /content/dataset/images/train
+val: /content/dataset/images/val
+
+nc: 3
+names: ['scratch', 'dent', 'crack']
