@@ -31,12 +31,16 @@ The system provides a "Clean vs. Damaged" status update and draws bounding boxes
 📊 **Model Training Results**
 
 The model was trained for 50 epochs on a custom dataset.
-Accuracy (mAP50): ~0.55+ (Example)
-Classes: Scratch, Dent, Crack
+- Accuracy (mAP50): ~0.55+ (Example)
+- Classes: Scratch, Dent, Crack, Glass Shatter, Lamp broken, Flat tyres
+
 
 🛠️ **Built With**
 
-Python 🐍
-Ultralytics YOLOv8 (Computer Vision)
-Gradio (Web Interface)
-Google Colab (Training Environment)
+- Python 🐍
+- Ultralytics YOLOv8 (Computer Vision)
+- Gradio (Web Interface)
+- Google Colab (Training Environment)
+
+
+
